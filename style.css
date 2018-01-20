@@ -1,0 +1,65 @@
+body {
+	margin: 0;
+	background-color: #FFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container_header {
+	margin: 0 auto;
+	padding: 30px;
+	background-image: url(https://images.pexels.com/photos/38136/pexels-photo-38136.jpeg?h=350&auto=compress&cs=tinysrgb);
+}
+
+.contarier_header h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 48px;
+}
+
+.container_header p, .container_header h1 {
+	text-align: center;
+	color: #FFF;
+}
+
+.container_main {
+	margin: 0 auto;
+	width: 700px;
+	background-color: #fff;
+	text-align: justify;
+}
+
+section {
+	padding-left: 20%;
+	padding-right: 20%
+}
+
+.about h2 {
+	margin-top: 60px;
+	font-size: 28px;
+	color: #FF0000;
+}
+
+.interests h2 {
+	margin-top: 40px;
+	color: #FEE703;
+}
+
+h1, h2 {
+	font-family: 'Nunito', sans-serif;
+}
+
+.container_footer {
+	margin-top: 60px;
+	padding: 30px;
+	background-color: #000;
+}
+
+.container_footer p {
+	text-align: center;
+	color: #d35400;
+}
+
+.container_footer a {
+	text-decoration: none;
+	font-weight: bold;
+}
